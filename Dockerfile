@@ -1,1 +1,1 @@
-FROM apline
+FROM alpine
